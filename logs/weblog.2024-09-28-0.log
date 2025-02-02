@@ -1,0 +1,48 @@
+2024-09-28 06:26:49.038 [main] INFO  com.daijun.weblog.web.WeblogWebApplicationTests - Starting WeblogWebApplicationTests using Java 1.8.0_421 on 齐天大圣 with PID 20428 (started by dyx76 in D:\IDEAProjects\weblog-springboot\weblog-web)
+2024-09-28 06:26:49.038 [main] INFO  com.daijun.weblog.web.WeblogWebApplicationTests - The following 1 profile is active: "prod"
+2024-09-28 06:26:49.748 [main] INFO  com.daijun.weblog.web.WeblogWebApplicationTests - Started WeblogWebApplicationTests in 0.993 seconds (JVM running for 1.505)
+2024-09-28 06:26:49.850 [main] INFO  com.daijun.weblog.web.WeblogWebApplicationTests - 这是一行 Info 级别日志
+2024-09-28 06:26:49.850 [main] WARN  com.daijun.weblog.web.WeblogWebApplicationTests - 这是一行 Warn 级别日志
+2024-09-28 06:26:49.853 [main] ERROR com.daijun.weblog.web.WeblogWebApplicationTests - 这是一行 Error 级别日志
+2024-09-28 06:26:49.853 [main] INFO  com.daijun.weblog.web.WeblogWebApplicationTests - 这是一行带有占位符日志，作者：戴骏
+[TraceId: ] 2024-09-28 13:14:34.164 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_421 on 齐天大圣 with PID 11228 (D:\IDEAProjects\weblog-springboot\weblog-web\target\classes started by dyx76 in D:\IDEAProjects\weblog-springboot)
+[TraceId: ] 2024-09-28 13:14:34.165 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - The following 1 profile is active: "prod"
+[TraceId: ] 2024-09-28 13:14:34.664 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-09-28 13:14:34.668 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-09-28 13:14:34.668 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+[TraceId: ] 2024-09-28 13:14:34.759 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-09-28 13:14:34.759 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 574 ms
+[TraceId: ] 2024-09-28 13:14:34.963 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-09-28 13:14:34.967 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 1.147 seconds (JVM running for 1.561)
+[TraceId: ] 2024-09-28 13:14:53.471 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_421 on 齐天大圣 with PID 22148 (D:\IDEAProjects\weblog-springboot\weblog-web\target\classes started by dyx76 in D:\IDEAProjects\weblog-springboot)
+[TraceId: ] 2024-09-28 13:14:53.472 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - The following 1 profile is active: "prod"
+[TraceId: ] 2024-09-28 13:14:53.895 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-09-28 13:14:53.900 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-09-28 13:14:53.900 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+[TraceId: ] 2024-09-28 13:14:53.962 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-09-28 13:14:53.962 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 472 ms
+[TraceId: ] 2024-09-28 13:14:54.130 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-09-28 13:14:54.134 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 0.892 seconds (JVM running for 1.289)
+[TraceId: ] 2024-09-28 13:15:26.127 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_421 on 齐天大圣 with PID 6968 (D:\IDEAProjects\weblog-springboot\weblog-web\target\classes started by dyx76 in D:\IDEAProjects\weblog-springboot)
+[TraceId: ] 2024-09-28 13:15:26.129 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - The following 1 profile is active: "prod"
+[TraceId: ] 2024-09-28 13:15:26.528 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-09-28 13:15:26.531 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-09-28 13:15:26.531 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+[TraceId: ] 2024-09-28 13:15:26.599 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-09-28 13:15:26.599 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 452 ms
+[TraceId: ] 2024-09-28 13:15:26.763 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-09-28 13:15:26.768 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 0.869 seconds (JVM running for 1.236)
+[TraceId: ] 2024-09-28 13:15:57.360 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - Starting WeblogWebApplication using Java 1.8.0_421 on 齐天大圣 with PID 14576 (D:\IDEAProjects\weblog-springboot\weblog-web\target\classes started by dyx76 in D:\IDEAProjects\weblog-springboot)
+[TraceId: ] 2024-09-28 13:15:57.361 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - The following 1 profile is active: "prod"
+[TraceId: ] 2024-09-28 13:15:57.764 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[TraceId: ] 2024-09-28 13:15:57.768 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+[TraceId: ] 2024-09-28 13:15:57.768 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.63]
+[TraceId: ] 2024-09-28 13:15:57.834 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[TraceId: ] 2024-09-28 13:15:57.834 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 455 ms
+[TraceId: ] 2024-09-28 13:15:57.997 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[TraceId: ] 2024-09-28 13:15:58.030 [main] INFO  com.daijun.weblog.web.WeblogWebApplication - Started WeblogWebApplication in 0.897 seconds (JVM running for 1.266)
+[TraceId: ] 2024-09-28 13:17:14.163 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[TraceId: ] 2024-09-28 13:17:14.163 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[TraceId: ] 2024-09-28 13:17:14.164 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[TraceId: 10c4ae1a-e736-4ce0-a110-6d3c11359581] 2024-09-28 13:17:14.231 [http-nio-8080-exec-1] INFO  c.d.w.module.common.aspect.ApiOperationLogAspect - ====== 请求开始: [测试接口], 入参: {"username":"admin","sex":1}, 请求类: TestController, 请求方法: test =================================== 
+[TraceId: 10c4ae1a-e736-4ce0-a110-6d3c11359581] 2024-09-28 13:17:14.239 [http-nio-8080-exec-1] INFO  c.d.w.module.common.aspect.ApiOperationLogAspect - ====== 请求结束: [测试接口], 耗时: 21ms, 出参: {"username":"admin","sex":1} =================================== 
